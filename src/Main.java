@@ -26,9 +26,9 @@ public class Main {
         System.out.println(" I am on Rebase Branch. This method is for 1st commit. ");
         System.out.println(" I am on Rebase Branch. This method is for 2nd commit. ");
         System.out.println(" Making some change again to Rebase-Branch and then committing. ");
+        System.out.println(" 2.0 Making some change again to Rebase-Branch and then committing. ");
 
     }
-
 
     private void ConflictWithRebase(){
         System.out.println(" This will cause conflict ith Rebase-Branch... Lets see");
