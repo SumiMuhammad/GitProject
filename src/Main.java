@@ -22,6 +22,12 @@ public class Main {
         return stu;
     }
 
+    private void rebaseMethod(){
+        System.out.println(" I am on Rebase Branch. This method is for 1st commit. ");
+
+    }
+
+
     private void ConflictWithRebase(){
         System.out.println(" This will cause conflict ith Rebase-Branch... Lets see");
     }
