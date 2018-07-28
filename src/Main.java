@@ -9,4 +9,9 @@ public class Main {
         System.out.println("Your name is : "+ name);
 
     }
+
+    private StudentPojo createStudentObject(){
+        StudentPojo stu = new StudentPojo();
+        return stu;
+    }
 }
