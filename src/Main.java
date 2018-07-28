@@ -24,6 +24,7 @@ public class Main {
 
     private void rebaseMethod(){
         System.out.println(" I am on Rebase Branch. This method is for 1st commit. ");
+        System.out.println(" I am on Rebase Branch. This method is for 2nd commit. ");
 
     }
 
