@@ -18,4 +18,9 @@ public class Employee {
     public void setEmployeeDept(String employeeDept) {
         this.employeeDept = employeeDept;
     }
+
+    @Override
+    public String toString() {
+        return this.getEmployeeName() +" "+ this.getEmployeeName();
+    }
 }
