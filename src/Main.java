@@ -35,6 +35,8 @@ public class Main {
     }
 
     private void gerritAddedToMyGitRepo(){
+
         System.out.println("Gerrit has been integrated with Git repo");
+        System.out.println(" Push was not going to Gerrit. Now I have added the SSH Key. Lets check if it works..");
     }
 }
