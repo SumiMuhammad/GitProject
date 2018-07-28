@@ -33,6 +33,4 @@ public class Main {
     private void ConflictWithRebase(){
         System.out.println(" This will cause conflict ith Rebase-Branch... Lets see");
     }
-
-
 }
