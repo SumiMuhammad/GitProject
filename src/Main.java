@@ -21,4 +21,8 @@ public class Main {
         System.out.println( "Student object created ..." );
         return stu;
     }
+
+    private void ConflictWithRebase(){
+        System.out.println(" This will cause conflict ith Rebase-Branch... Lets see");
+    }
 }
